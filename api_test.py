@@ -60,3 +60,4 @@ if __name__ == "__main__":
         upload_file(file_name, repo_name)
     except Exception as e:
         print("Errore nel caricamento del file:", e)
+
